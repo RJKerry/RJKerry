@@ -1,0 +1,4 @@
+- Hi, I’m @RJKerry
+- Im an aspiring game's programming student using C# for the Unity game engine,
+- building passion projects and hoping to produce interesting, engaging player
+- experiences!
