@@ -1,4 +1,4 @@
 - Hi, I’m @RJKerry
-- Im an games programmer using C# for the Unity and C++ for Unreal,
+- Im a games programmer using C# for Unity and C++ for Unreal,
 - building passion projects and hoping to produce interesting, engaging player
 - experiences!
