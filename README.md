@@ -1,4 +1,4 @@
 - Hi, I’m @RJKerry
-- Im a games programmer using C# for Unity and C++ for Unreal,
-- building passion projects and hoping to produce interesting, engaging player
-- experiences!
+- Games Programmer, Software Developer, across the stack
+- C#, C++, JS, TS,
+- Unity Engine, Unreal Engine, React/Preact, MongoDB
