@@ -1,4 +1,4 @@
 - Hi, I’m @RJKerry
-- Fullstack developer
+- Fullstack Developer
 - Video Game Developer
 - Building on Base
