@@ -1,4 +1,4 @@
 - Hi, I’m @RJKerry
-- Games Programmer, Software Developer, across the stack
-- C#, C++, JS, TS,
-- Unity Engine, Unreal Engine, React/Preact, MongoDB
+- Fullstack developer
+- Video Game Developer
+- Building on Base
